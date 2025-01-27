@@ -24,6 +24,7 @@ This work builds upon the research presented in Richter et al. (2024), "Delineat
 **Create and activate the conda environment:**
 
 ```bash
+conda create -n ssl-transferability python==3.10
 conda activate ssl-transferability
 ```
 
