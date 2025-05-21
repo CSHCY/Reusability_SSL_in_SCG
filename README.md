@@ -36,11 +36,11 @@ pip install -r requirements-gpu.txt
 
 **Pretrained Models:**
 
-Download the pre-trained models from https://huggingface.co/TillR/sc_pretrained/tree/main/Pretrained%20Models.
+Download the pre-trained models from https://huggingface.co/TillR/sc_pretrained/tree/main/Pretrained%20Models, and deposit the models at "./sc_pretrained/".
 
 **Reproduce our experiments:**
 
-Jupyter notebooks can be used to reproduce the experiments and generate the figures in our paper. Before reproducing our expriments, please first git clone the code from the orginal study at https://github.com/theislab/ssl_in_scg.
+Jupyter notebooks can be used to reproduce the experiments and generate the figures in our paper. Before reproducing our experiments, please first git clone the code from the original study at https://github.com/theislab/ssl_in_scg.
 
 **Original Study**
 
