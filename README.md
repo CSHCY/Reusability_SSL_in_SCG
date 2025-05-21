@@ -52,4 +52,4 @@ https://github.com/theislab/ssl_in_scg
 
 **Contact**
 
-For any questions or issues, please contact ChuangyiHan at chuangyihan22@m.fudan.edu.cn.
+For any questions or issues, please contact Chuangyi Han at chuangyihan22@m.fudan.edu.cn.
